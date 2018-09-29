@@ -2,7 +2,7 @@
 
 ---
 
-https://image.freepik.com/free-photo/loei-thailand-may-10-2017-hand-holding-samsung-s8-with-mobile-application-for-instagram-on-the-screen_1232-4910.jpg
+https://image.flaticon.com/icons/svg/104/104625.svg
 
 ### On 29-Sep-2018, The purpose of this script is to increase the Instagram followers . Those who want to get lots of followers in a few days , this script is the best option. In addition to increasing the follower there are some unique features such as the likes and Comment , and ... 
 
