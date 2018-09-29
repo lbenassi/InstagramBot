@@ -1,7 +1,7 @@
 # InstagramBot
 
 
-<img src="https://image.freepik.com/free-vector/instagram-icons-set_1199-126.jpg" title="Instagrambot logo" alt="Instagram bot logo">
+<img src="https://image.freepik.com/free-vector/instagram-icons-set_1199-126.jpg" title="Instagrambot logo" alt="Instagram bot logo" width="100" height="100">
 
 
 ### On 29-Sep-2018, The purpose of this script is to increase the Instagram followers . Those who want to get lots of followers in a few days , this script is the best option. In addition to increasing the follower there are some unique features such as the likes and Comment , and ... 
