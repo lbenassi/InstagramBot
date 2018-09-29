@@ -1,6 +1,5 @@
 # InstagramBot
 
----
 
 <img src="https://image.freepik.com/free-vector/hand-drawn-instagram-logo-and-buttons_23-2147534325.jpg" title="Instagrambot logo" alt="Instabot logo">
 
