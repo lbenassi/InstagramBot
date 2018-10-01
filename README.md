@@ -17,7 +17,7 @@
 [![Web Site](https://img.shields.io/badge/Visit%20the-Website-brightgreen.svg)](http://pcmohandes.ir)
 
 
-## Parameters
+## 1. Parameters
 | Parameter            | Type|                Description                           |        Default value             |
 |:--------------------:|:---:|:----------------------------------------------------:|:--------------------------------:|
 | login                | str | Your instagram username                              |      |
@@ -45,18 +45,61 @@
 | proxy                | str | Access instagram through a proxy. (host:port or user:password@host:port) | |
 
 
-## Usage examples
-Basic bot implementation:
-```py
-bot = InstaBot('login', 'password')
+
+## 2. Installation For Windows
+
+
+```
+$ git clone https://github.com/rzabm/InstagramBot.git
+$ cd InstagramBot
 ```
 
 
-## Video Tutorials
+You can install using `pip`:
+
+```
+$ pip install -r requirements.txt
+```
+
+Start the program
+
+```
+$ python example.py
+```
+
+
+
+
+## 3. Installation For Android(Termux)
+
+
+```
+$ pkg update
+$ pkg install git
+$ pkg install python
+$ git clone https://github.com/rzabm/InstagramBot.git
+$ pkg install mc
+$ mcedit example.py      'id & password'
+$ pip install -r requirements.txt
+$ python example.py
+```
+
+
+
+
+
+## 4. Usage examples
+Basic bot implementation:
+```py
+example.py => bot = InstaBot('login', 'password')
+```
+
+
+## 5. Video Tutorials
 The following video tutorials demo setting up and running the bot:
 * [Android](https://www.instagram.com/rzabm/)
 
-## Community
+## 6. Community
 
 - [Telegram Group](https://t.me/joinchat/JPdJCRAqYxZBExsYDLzCnQ)
 
